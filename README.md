@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Event News
 
 This repo contains individual pages for news or summary about past events.
