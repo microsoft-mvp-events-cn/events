@@ -1,6 +1,6 @@
-# Event News
+# Shanghai MVP Events
 
-This repo contains individual pages for news or summary about past events.
+This repo contains individual pages about past events.
 
 ## How to contribute
 
