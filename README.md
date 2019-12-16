@@ -1,6 +1,6 @@
-# Shanghai MVP Events
+# Microsoft MVP Events (China)
 
-This repo contains individual pages about past events.
+This repo contains individual pages about past events that Microsoft MVP members participated in.
 
 ## How to contribute
 
